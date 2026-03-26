@@ -1,2 +1,0 @@
-2026-03-25 17:29:46,352 - Input: {'sepal_length': 6.1, 'sepal_width': 2.8, 'petal_length': 4.7, 'petal_width': 1.2} | Prediction: versicolor
-2026-03-26 10:55:46,624 - Input: {'sepal_length': 5.1, 'sepal_width': 3.5, 'petal_length': 1.4, 'petal_width': 0.2} | Prediction: setosa
